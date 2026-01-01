@@ -41,7 +41,7 @@ export default function Projects() {
         'Personal portfolio website showcasing projects, skills, and experience with modern UI and animations.',
       image: portfolioImg,
       technologies: ['React.js', 'Tailwind CSS', 'Vercel'],
-      github: 'https://github.com/khushi036/portfolio',
+      github: 'https://github.com/khushi036/portfolio.',
       demo: '#',
     },
   ];
