@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Github, Linkedin, Twitter, Instagram } from 'lucide-react';
+import { Mail, MapPin, Github, Linkedin, Twitter, Instagram } from 'lucide-react';
 
 export default function Contact() {
   const contactInfo = [
@@ -8,12 +8,7 @@ export default function Contact() {
       value: 'saxenakhushi699@gmail.com',
       link: 'mailto:saxenakhushi699@gmail.com',
     },
-    {
-      icon: Phone,
-      title: 'Phone',
-      value: '+91 7042959724',
-      link: 'tel:+917042959724',
-    },
+   
     {
       icon: MapPin,
       title: 'Location',
